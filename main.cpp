@@ -57,8 +57,8 @@ void QuickSort(T arr, int l, int r)
 {
     int i, j;
     
-    i = l; // начало массива
-    j = r; // конец массива
+    i = l; // beginning of array
+    j = r; // the end of array
     
     int middle = arr[(i+j)/2];
     
