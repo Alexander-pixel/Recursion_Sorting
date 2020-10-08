@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Recursion Sorting
-//
-//  Created by Александр Ткаченко on 12.09.2020.
-//  Copyright © 2020 Александр Ткаченко. All rights reserved.
-//
-
 #include <iostream>
 #include <time.h>
 using namespace std;
